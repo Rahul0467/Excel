@@ -1,2 +1,1 @@
-# Payroll
-I have calculated the salary for a bunch of employees in excel. This sheet includes normal and overtime pay also.
+This repo contains some of the projects that I have done using basic to some advanced concepts in excel like the usage of vlookup, pivot tables, some charts to name a few. 
